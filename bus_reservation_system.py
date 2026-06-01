@@ -1,26 +1,6 @@
-{
-  "cells": [
-    {
-      "cell_type": "markdown",
-      "metadata": {
-        "id": "view-in-github",
-        "colab_type": "text"
-      },
-      "source": [
-        "<a href=\"https://colab.research.google.com/github/amitsingh6261/my_all_python_Program/blob/main/bus_reservation_system.py\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
-      ]
-    },
-    {
-      "cell_type": "code",
-      "execution_count": null,
-      "metadata": {
-        "id": "s893I23xUPDn"
-      },
-      "outputs": [],
-      "source": [
-        "\n",
+
         "# bus reservation system\n",
-        "\n",
+        
         "print(\"*****-#--  WELCOME TO BUS RESERVATION SYSTEM -#--*****\")\n",
         "total_seat=20\n",
         "booked=[]\n",
@@ -71,24 +51,5 @@
         "    break\n",
         " else:\n",
         "    print(\"!!!!!!  INVALID CHOICE  !!!!!!\")\n",
-        "\n"
-      ]
-    }
-  ],
-  "metadata": {
-    "colab": {
-      "provenance": [],
-      "authorship_tag": "ABX9TyMvGqlNz0HFc3TqBBAGFeHk",
-      "include_colab_link": true
-    },
-    "kernelspec": {
-      "display_name": "Python 3",
-      "name": "python3"
-    },
-    "language_info": {
-      "name": "python"
-    }
-  },
-  "nbformat": 4,
-  "nbformat_minor": 0
-}
+     
+  
